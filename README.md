@@ -20,7 +20,7 @@ I am available from April to August 2022
 
 You can contact me at the following address: <a href="mailto:ludovic.corcos@etu.uca.fr">ludovic.corcos@etu.uca.fr</a>
 
-## English !
+## Français !
 ### 👋 Hi, I’m @Magic-Ludo
 
 ### -> Intro 🎓
