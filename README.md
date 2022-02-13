@@ -26,12 +26,12 @@ I am available from April to August 2022.
 	- Iterative methods :
 		- Jaccobi
 		- Gauss-Seidel
-		- Numerical simulation (C\)
-- Stochastic simulation - generation of pseudo-random numbers
-- Approximation of the number Pi by the Monte Carlo method and statistical analysis
-- Simulation of a rabbit population
-- Generator of the Van Der Corupt sequence
-- Game of life
+- Numerical simulation (C\):
+	- Stochastic simulation - generation of pseudo-random numbers
+	- Approximation of the number Pi by the Monte Carlo method and statistical analysis
+	- Simulation of a rabbit population
+	- Generator of the Van Der Corupt sequence
+	- Game of life
 - Logic programming (Prolog)
 - Sokoban game (C, SDL 1.2)
 - Scientific computing (MATLAB and Python)
@@ -74,12 +74,12 @@ Je suis disponible d'Avril à Août 2022.
 	- Méthodes itératives :
 		- Jaccobi
 		- Gauss-Seidel
-- Simulation numérique (C\)
-- Simulation stochastique - génération de nombres pseudo-aléatoires
-- Approximation du nombre Pi par la méthode de Monte Carlo et analyse statistique
-- Simulation d'une population de lapin
-- Générateur de la séquence de Van Der Corupt
-- Jeu de la vie
+- Simulation numérique (C\):
+	- Simulation stochastique - génération de nombres pseudo-aléatoires
+	- Approximation du nombre Pi par la méthode de Monte Carlo et analyse statistique
+	- Simulation d'une population de lapin
+	- Générateur de la séquence de Van Der Corupt
+	- Jeu de la vie
 - Programmation logique (Prolog)
 - Jeu du Sokoban (C, SDL 1.2)
 - Calcul scientifique (MATLAB et Python)
