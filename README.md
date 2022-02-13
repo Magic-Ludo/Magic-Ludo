@@ -36,10 +36,10 @@ I am available from April to August 2022.
 - Sokoban game (C, SDL 1.2)
 - Scientific computing (MATLAB and Python)
 - Expression solver in inverse Polish notation (Java)
-- Geometric algorithms (convex envelope, TSP, etc.) (Python)
+- Geometric algorithms (convex hull, TSP, etc.) (Python)
 - Linux system programming (C\)
 - Socket-based client-server system (C\)
-- Anomaly detection system on brain images - CNN (MRI) | IN PROGRESS (Python, Tensorflow, + 70 GB of nifti data)
+- Anomaly detection system on brain images - CNN (MRI) | ***IN PROGRESS*** (Python, Tensorflow, + 70 GB of nifti data)
 
 ### -> Contact 📫
 
@@ -87,7 +87,7 @@ Je suis disponible d'Avril à Août 2022.
 - Algorithmes géométriques (enveloppe convexe, TSP, ect...) (Python)
 - Programmation système linux (C\)
 - Système client - serveur basé sur des sockets (C\)
-- Système de détection d'anomalies sur imageries cérébrales (IRM) | EN COURS (Python, Tensorflow, + 70 Go de données nifti)
+- Système de détection d'anomalies sur imageries cérébrales (IRM) | ***EN COURS*** (Python, Tensorflow, + 70 Go de données nifti)
 
 ### -> Contact 📫
 
